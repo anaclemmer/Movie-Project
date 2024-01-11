@@ -1,3 +1,5 @@
+**Data Science Final Project**
+
 Given a movie dataset, analyzed data and used machine learning to predict success of movie entries. 
 
 Skills practiced in this project:
